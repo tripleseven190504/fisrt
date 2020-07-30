@@ -1,0 +1,238 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+
+
+0.0.0.0 hkspeed.igamecj.com
+0.0.0.0 ig-us-sdkapi.igamecj.com
+0.0.0.0 usa.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 129.226.23.10.0.0.0 6
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 platform-lookaside.fbsbx.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 hkspeed.igamecj.com
+0.0.0.0 119.28.252.119
+0.0.0.0 pay.igamecj.com
+0.0.0.0 csi.gstatic.com
+0.0.0.0 usa.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 124.156.43.213
+0.0.0.0 pay.igamecj.com
+0.0.0.0 www.pubgmobile.com
+0.0.0.0 tencentgames.helpshift.com
+0.0.0.0 tencentgames.helpshift.com
+0.0.0.0 filecdn.igamecj.com
+0.0.0.0 api.facebook.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 ig-us-notice.igamecj.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 filecdn-igamecj.akamaized.net
+0.0.0.0 csi.gstatic.com
+0.0.0.0 platform-lookaside.fbsbx.com
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 astat.bugly.qcloud.com
+0.0.0.0 filecdn.igamecj.com
+0.0.0.0 filecdn-igamecj.akamaized.net
+0.0.0.0 ig-us-sdkapi.igamecj.com
+0.0.0.0 usa.csoversea.mbgame.anticheatexpert.com
+
+127.0.0.1     mx.qq.com  
+127.0.0.1     http.qq.com  
+127.0.0.1     mx0.qq.com  
+127.0.0.1     mx1.qq.com  
+127.0.0.1     id.qq.com  
+127.0.0.1     mx1.qq.com  
+127.0.0.1     ads.qq.com  
+127.0.0.1     id.qq.com  
+127.0.0.1     news.qq.com  
+127.0.0.1     news.qq.com  
+127.0.0.1     news.qq.com  
+127.0.0.1     info.qq.com  
+127.0.0.1     test.qq.com  
+127.0.0.1     ns.qq.com  
+127.0.0.1     alpha.qq.com  
+127.0.0.1     dns.qq.com  
+127.0.0.1     test1.qq.com  
+127.0.0.1     ap.qq.com  
+127.0.0.1     ns1.qq.com  
+127.0.0.1     ns1.qq.com  
+127.0.0.1     ns1.qq.com  
+127.0.0.1     ns2.qq.com  
+127.0.0.1     ns2.qq.com  
+127.0.0.1     ns2.qq.com  
+127.0.0.1     dns2.qq.com  
+127.0.0.1     apache.qq.com  
+127.0.0.1     ns3.qq.com  
+127.0.0.1     ns3.qq.com  
+127.0.0.1     ipv6.qq.com  
+127.0.0.1     download.qq.com  
+127.0.0.1     testing.qq.com  
+127.0.0.1     en.qq.com  
+127.0.0.1     ops.qq.com  
+127.0.0.1     app.qq.com  
+127.0.0.1     app.qq.com  
+127.0.0.1     oracle.qq.com  
+127.0.0.1     vm.qq.com  
+127.0.0.1     apps.qq.com  
+127.0.0.1     eshop.qq.com  
+127.0.0.1     eshop.qq.com  
+127.0.0.1     auth.qq.com  
+127.0.0.1     linux.qq.com  
+127.0.0.1     backup.qq.com  
+127.0.0.1     local.qq.com  
+127.0.0.1     beta.qq.com  
+127.0.0.1     f5.qq.com  
+127.0.0.1     f5.qq.com  
+127.0.0.1     f5.qq.com  
+127.0.0.1     f5.qq.com  
+127.0.0.1     log.qq.com  
+127.0.0.1     web.qq.com  
+127.0.0.1     blog.qq.com  
+127.0.0.1     mail.qq.com  
+127.0.0.1     mail.qq.com  
+127.0.0.1     cdn.qq.com  
+127.0.0.1     whois.qq.com  
+127.0.0.1     chat.qq.com  
+127.0.0.1     server.qq.com  
+127.0.0.1     wiki.qq.com  
+127.0.0.1     shop.qq.com  
+127.0.0.1     shop.qq.com  
+127.0.0.1     shop.qq.com  
+127.0.0.1     shop.qq.com  
+127.0.0.1     www.qq.com  
+127.0.0.1     www.qq.com  
+127.0.0.1     www.qq.com  
+127.0.0.1     corp.qq.com  
+127.0.0.1     smtp.qq.com  
+127.0.0.1     smtp.qq.com  
+127.0.0.1     mobile.qq.com  
+127.0.0.1     ssl.qq.com  
+127.0.0.1     demo.qq.com  
+127.0.0.1     monitor.qq.com  
+127.0.0.1     gw.qq.com  
+127.0.0.1     help.qq.com  
+127.0.0.1     mta.qq.com  
+127.0.0.1     home.qq.com  
+
+0.0.0.0 .com
+0.0.0.0 com.tencent.in
+127.0.0.1 localhost
+127.0.0.1 localhost.net
+127.0.0.1 localhost.localdomain
+::1             ipv6
+255.255.255.255 broadcasthost
+0.0.0.0 2401:b180:1:4::17
+47.8.40.36 locates
+
+47.8.40.36  203.119.169.175     mx.cnzz.com  
+47.8.40.36  203.119.169.175     stats.cnzz.com  
+47.8.40.36  203.119.169.175     test.cnzz.com  
+47.8.40.36  203.119.169.175     ns1.cnzz.com  
+47.8.40.36  203.119.169.175     app.cnzz.com  
+47.8.40.36  203.119.169.175     app.cnzz.com 
+47.8.40.36  203.119.169.175     app.cnzz.com  
+47.8.40.36  203.119.169.175     app.cnzz.com  
+47.8.40.36  203.119.169.175     ns2.cnzz.com  
+47.8.40.36  203.119.169.175     download.cnzz.com  
+47.8.40.36  203.119.169.175     download.cnzz.com  
+47.8.40.36  203.119.169.175     download.cnzz.com  
+47.8.40.36  203.119.169.175     download.cnzz.com  
+47.8.40.36  203.119.169.175     www.cnzz.com  
+47.8.40.36  203.119.169.175     s3.cnzz.com  
+47.8.40.36  203.119.169.175     smtp.cnzz.com  
+47.8.40.36  203.119.169.175     help.cnzz.com  
+47.8.40.36  203.119.169.175     mta.cnzz.com  
+47.8.40.36  203.119.169.175     mta.cnzz.com  
+
+0.0.0.0 .com
+0.0.0.0 com.tencent.in
+127.0.0.1 localhost
+127.0.0.1 localhost.net
+127.0.0.1 localhost.localdomain
+::1             ipv6
+255.255.255.255 broadcasthost
+47.8.40.36 locates
+
+47.8.40.36  162.255.119.193     www.pubghacking.net  
+47.8.40.36  162.255.119.193     www.pubghacking.net  
+47.8.40.36  162.255.119.193     www.pubghacking.net  
+47.8.40.36  162.255.119.193     www.pubghacking.net  
+47.8.40.36  162.255.119.193     www.pubghacking.net  
+47.8.40.36  162.255.119.193     www.pubghacking.net  
+47.8.40.36  162.255.119.193     www.pubghacking.net  
+
+127.0.0.1 localhost
+127.0.0.1 localhost.net
+127.0.0.1 localhost.localdomain
+::1             ipv6
+255.255.255.255 broadcasthost
+0.0.0.0 2408:8756:3af0:10::16d
+47.8.40.36locates
+
+47.8.40.36  112.25.105.32     id.tencent.com  
+47.8.40.36  112.25.105.32     test.tencent.com  
+47.8.40.36  112.25.105.32     ads.tencent.com  
+47.8.40.36  112.25.105.32     ads.tencent.com  
+47.8.40.36  112.25.105.32     alpha.tencent.com  
+47.8.40.36  112.25.105.32     vpn.tencent.com  
+47.8.40.36  112.25.105.32     ldap.tencent.com  
+47.8.40.36  112.25.105.32     ldap.tencent.com  
+47.8.40.36  112.25.105.32     mail.tencent.com  
+47.8.40.36  112.25.105.32     mail2.tencent.com  
+47.8.40.36  112.25.105.32     wiki.tencent.com  
+47.8.40.36  112.25.105.32     mail3.tencent.com  
+47.8.40.36  112.25.105.32     exchange.tencent.com  
+47.8.40.36  112.25.105.32     server.tencent.com  
+47.8.40.36  112.25.105.32     www.tencent.com  
+47.8.40.36  112.25.105.32     www.tencent.com  
+47.8.40.36  112.25.105.32     www.tencent.com  
+47.8.40.36  112.25.105.32     www.tencent.com  
+47.8.40.36  112.25.105.32     www.tencent.com  
+47.8.40.36  112.25.105.32     manage.tencent.com  
+47.8.40.36  112.25.105.32     cms.tencent.com  
+47.8.40.36  112.25.105.32     mobile.tencent.com  
+47.8.40.36  112.25.105.32     corp.tencent.com  
+47.8.40.36  112.25.105.32     corp.tencent.com  
+47.8.40.36  112.25.105.32     corp.tencent.com  
+47.8.40.36  112.25.105.32     corp.tencent.com  
+47.8.40.36  112.25.105.32     corp.tencent.com  
+47.8.40.36  112.25.105.32     git.tencent.com  
+47.8.40.36  112.25.105.32     help.tencent.com  
+47.8.40.36  112.25.105.32     help.tencent.com  
+47.8.40.36  112.25.105.32     dev.tencent.com  
+
+127.0.0.1 localhost
+127.0.0.1 localhost.net
+127.0.0.1 localhost.localdomain
+::1             ipv6
+255.255.255.255 broadcasthost
+47.8.40.36 locates
+
+47.8.40.36  138.201.37.201     ns1.hidehost.com  
+47.8.40.36  138.201.37.201     ns2.hidehost.com  
+47.8.40.36  138.201.37.201     mail.hidehost.com  
+47.8.40.36  138.201.37.201     www.hidehost.com  
+47.8.40.36  138.201.37.201     ftp.hidehost.com  
+47.8.40.36  138.201.37.201     smtp.hidehost.com  
+
+127.0.0.1 localhost
+127.0.0.1 localhost.net
+127.0.0.1 localhost.localdomain
+::1             ipv6
+255.255.255.255 broadcasthost
+47.8.40.36 locates
+0.0.0.0 2603:1047::c:0:0:0:f
+
+47.8.40.36  47.8.40.36     mail.Ip.com  
+47.8.40.36  47.8.40.36     exchange.Ip.com  
+47.8.40.36  47.8.40.36     www.Ip.com  
+47.8.40.36  47.8.40.36     www2.Ip.com  
+47.8.40.36  47.8.40.36     ftp.Ip.com  
+47.8.40.36  47.8.40.36     sip.Ip.com  
+47.8.40.36  47.8.40.36     sip.Ip.com  
+
+###########【V̷αяυη V̷ιρ M̴αηтяα】###########
+
